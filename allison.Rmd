@@ -1,5 +1,0 @@
-# Testing 
-
-## Example
-
-Some other rext
